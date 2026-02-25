@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Vazirmatn', system-ui, sans-serif;
+}
+
+textarea,
+input,
+select,
+button {
+  font-family: inherit;
+}
+
+#ai-advisor-result,
+#ai-categorize-result {
+  min-height: 24px;
+}
+
+.shadow-soft {
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.08);
+}
