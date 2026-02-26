@@ -26,7 +26,7 @@ const authMeBtn = document.getElementById('auth-me-btn')
 const authMeResult = document.getElementById('auth-me-result')
 const authLogoutBtn = document.getElementById('auth-logout-btn')
 
-const AUTH_TOKEN_KEY = 'tavanmarket_token'
+const AUTH_TOKEN_KEY = '0f13b03f-579f-418e-aa17-20c27f754098'
 
 const renderResult = (target, html) => {
   if (!target) return
