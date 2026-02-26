@@ -7,8 +7,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "webapp-production",
-      "database_id": "a5b28747-5cfa-4231-9f6f-cf65f92ad4cf"
+      "database_name": "tavana_db",
+      "database_id": "f3d3001e-8597-40d4-9435-6ca42e670c92"
     }
   ]
 }
